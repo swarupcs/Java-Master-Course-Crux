@@ -1,8 +1,8 @@
 package Section_16_OOPS_Stacks;
 
 public class StackUsingArrays {
-	private int[] data;
-	private int top;
+	protected int[] data;
+	protected int top;
 	
 	public static final int DEFAULT_CAPACITY = 10;
 	
