@@ -6,7 +6,7 @@ public class Brackets_Is_Balanced {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String str = "{ {{{(a+b)}}}}";
+		String str = "{{{{(a+b)}}}}";
 		System.out.println(isBalanced(str));
 		
 	}
